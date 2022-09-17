@@ -1,0 +1,2 @@
+# SUX
+> &lt;input type="button" value="Play Music"  onclick="play()"> > &lt;audio id="audio" src="Your Music" >&lt;/audio> >  &lt;a href="https://youtube.com/channel/UCpUYdnJ3tJ2EU-kCluXYVrw" class="link-button">Click My Channel&lt;/a>   >    &lt;noscript> >    &lt;i>All Your Name&lt;/i> >    &lt;/noscript> &lt;/font>&lt;/font>&lt;/font>&lt;/font>&lt;/font> >    &lt;br>&lt;br> &lt;/body> >    &lt;/html> >  >  > Change Link Youtube!  >  > Date By #SUXFalls
